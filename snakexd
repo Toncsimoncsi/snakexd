@@ -1,0 +1,35 @@
+class kobra :
+
+def __init__(self, length, head_location, direction):
+		self.length = length
+		self.speed = speed
+		self.head_location = head_location
+	  self.direction = direction
+
+
+class table :
+
+    def __init__(length, width):
+    		self.type = type
+    		self.company = company
+    		self.speed_limit = speed_limit
+    		self.model = model
+
+class boundaries(table):
+
+				
+
+class fields(table):
+
+        def __init__(self, model, color, company, speed_limit):
+        		self.color = color
+        		self.company = company
+        		self.speed_limit = speed_limit
+        		self.model = model
+class foods (fields)          
+
+  			def _init_(self, model, color, company, speed_limit)
+				self.color = color
+				self.company = company
+				self.speed_limit = speed_limit
+				self.model = model
